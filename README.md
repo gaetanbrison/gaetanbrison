@@ -1,9 +1,6 @@
 ### Hi there, I'm Gaëtan 👋 
 
-[![Linkedin](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/gaetan-brison/)
-[![Medium](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://gaetan-brison.medium.com/)
-
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Machine Learning Research Engineer @Hi! PARIS - Institut Polytechnique x HEC Paris x Inria
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
