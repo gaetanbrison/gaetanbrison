@@ -19,10 +19,10 @@
 
 ### Study Background:
 
-[<img align="left" alt="GeorgiaTech" width="35px" src="https://logo-marque.com/wp-content/uploads/2021/08/Georgia-Tech-Logo.png" />][georgiatech]
-[<img align="left" alt="EDHEC" width="35px" src="https://sherpas.com/wp-content/uploads/2021/06/logo-edhec-rotis.png" />][edhec]
-[<img align="left" alt="MITx" width="35px" src="https://yt3.ggpht.com/ytc/AKedOLQXgN8M_0kTyYXrBQHeuUja5Sg5qx_ba8EqBe1K=s900-c-k-c0x00ffffff-no-rj" />][mitx]
-[<img align="left" alt="LeWagon" width="35px" src="https://img2.freepng.fr/20180712/ggr/kisspng-le-wagon-berlin-coding-bootcamp-le-wagon-tlv-switc-wagon-5b479053866e64.8547103315314166595506.jpg" />][lewagon]
+[<img align="left" alt="GeorgiaTech" width="60px" src="https://logo-marque.com/wp-content/uploads/2021/08/Georgia-Tech-Logo.png" />][georgiatech]
+[<img align="left" alt="EDHEC" width="60px" src="https://sherpas.com/wp-content/uploads/2021/06/logo-edhec-rotis.png" />][edhec]
+[<img align="left" alt="MITx" width="60px" src="https://www.teachthought.com/wp-content/uploads/2012/07/MIT-756-567.png" />][mitx]
+[<img align="left" alt="LeWagon" width="60px" src="https://uikit.lewagon.com/assets/le-wagon-1ff391bc0cb840ed6a0b3462ba419d99d5c5b55720634e4947ebfd0ce9099e99.png" />][lewagon]
 
 <br />
 
