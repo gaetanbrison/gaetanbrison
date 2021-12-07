@@ -2,7 +2,7 @@
 
 ## I'm a Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
 
-- 🚀 Official launch of the Hi! Paris [Engineering Team][https://engineeringteam.hi-paris.fr/] Jan 2022
+- 🚀 Official launch of the Hi! Paris [Engineering Team][engineering-team] Jan 2022
 - 🌱 I’m currently learning everything
 - 👨🏼‍💻 👩🏼‍💻 I’m looking to collaborate with more software developpers & data scientists & researchers
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -69,7 +69,7 @@
 </a>
 
 
-
+[engineering-team]: https://engineeringteam.hi-paris.fr/
 [hi-paris]: https://www.hi-paris.fr/
 [medium]: https://gaetan-brison.medium.com/
 [linkedin]: https://www.linkedin.com/in/gaetan-brison/
