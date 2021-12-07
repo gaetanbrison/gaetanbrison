@@ -15,7 +15,6 @@
 
 
 <br />
-<br />
 
 ### Study Background:
 
@@ -24,7 +23,7 @@
 [<img align="left" alt="MITx" width="100px" src="https://www.teachthought.com/wp-content/uploads/2012/07/MIT-756-567.png" />][mitx]
 [<img align="left" alt="LeWagon" width="100px" src="https://pic.clubic.com/v1/images/1779439/raw?width=1200&fit=max&hash=f1b9de77e1aa421b3098f13020c2d32538138f67"/>][lewagon]
 
-
+<br />
 
 ### Languages and Tools:
 
