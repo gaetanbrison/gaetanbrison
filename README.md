@@ -19,8 +19,10 @@
 
 ### Study Background:
 
-[<img align="left" alt="Medium" width="22px" src="https://logo-marque.com/wp-content/uploads/2021/08/Georgia-Tech-Logo.png" />][medium]
-[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GeorgiaTech" width="35px" src="https://logo-marque.com/wp-content/uploads/2021/08/Georgia-Tech-Logo.png" />][georgiatech]
+[<img align="left" alt="EDHEC" width="35px" src="https://sherpas.com/wp-content/uploads/2021/06/logo-edhec-rotis.png" />][edhec]
+[<img align="left" alt="MITx" width="35px" src="https://yt3.ggpht.com/ytc/AKedOLQXgN8M_0kTyYXrBQHeuUja5Sg5qx_ba8EqBe1K=s900-c-k-c0x00ffffff-no-rj" />][mitx]
+[<img align="left" alt="LeWagon" width="35px" src="https://img2.freepng.fr/20180712/ggr/kisspng-le-wagon-berlin-coding-bootcamp-le-wagon-tlv-switc-wagon-5b479053866e64.8547103315314166595506.jpg" />][lewagon]
 
 <br />
 
@@ -86,4 +88,8 @@
 [hi-paris]: https://www.hi-paris.fr/
 [medium]: https://gaetan-brison.medium.com/
 [linkedin]: https://www.linkedin.com/in/gaetan-brison/
+[georgiatech]: https://www.gatech.edu/
+[edhec]: https://www.edhec.edu/en
+[mitx]: https://micromasters.mit.edu/
+[lewagon]: https://www.lewagon.com/
 
