@@ -2,11 +2,11 @@
 
 ## I'm a Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🚀 Official launch of the Hi! Paris [Engineering Team][https://engineeringteam.hi-paris.fr/] Jan 2022
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other software developper & data scientist
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love tennis 🎾, rowing 🚣‍♀️ and late Fridays cheese 🧀 and wine 🍷
 
 ### Connect with me:
 
