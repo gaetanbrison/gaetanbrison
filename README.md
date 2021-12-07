@@ -1,6 +1,6 @@
 ### Hi there, I'm Gaëtan 👋 
 
-## I'm a Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polytechnique x HEC Paris x Inria
+## I'm a Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
