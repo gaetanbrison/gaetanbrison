@@ -2,7 +2,7 @@
 
 ## I'm a Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
 
-- 🚀 Official launch of the Hi! Paris [Engineering Team][engineering-team] Jan 2022
+- 🚀 Official launch of the Hi! Paris [Engineering Team][engineering-team] Feb 2022
 - 🌱 I’m currently learning everything
 - 👨🏼‍💻 👩🏼‍💻 I’m looking to collaborate with more software developpers & data scientists & researchers
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -19,7 +19,7 @@
 ### Study Background:
 
 [<img align="left" alt="GeorgiaTech" width="80px" src="https://logo-marque.com/wp-content/uploads/2021/08/Georgia-Tech-Logo.png" />][georgiatech]
-[<img align="left" alt="EDHEC" width="80px" src="https://sherpas.com/wp-content/uploads/2021/06/logo-edhec-rotis.png" />][edhec]
+[<img align="left" alt="EDHEC" width="80px" src="https://www.edhec.edu/sites/www.edhec-portail.pprod.net/files/images/logo-edhec-300x150.png" />][edhec]
 [<img align="left" alt="MITx" width="80px" src="https://www.teachthought.com/wp-content/uploads/2012/07/MIT-756-567.png" />][mitx]
 [<img align="left" alt="LeWagon" width="80px" src="https://pic.clubic.com/v1/images/1779439/raw?width=1200&fit=max&hash=f1b9de77e1aa421b3098f13020c2d32538138f67"/>][lewagon]
 
