@@ -2,8 +2,6 @@
 
 ## I'm a Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
 
-<img align="right" alt="Coding" width ="400" src="https://hakuva.tech/wp-content/uploads/2020/11/sales-manager-openings.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaetanbrison&label=Profile%20views&color=0e75b6&style=flat" alt="gaetanbrison" /> </p>
 
 - 🚀 Official launch of the Hi! Paris [Engineering Team][engineering-team] Feb 2022
 - 🌱 I’m currently learning everything
