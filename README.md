@@ -75,6 +75,7 @@
 ### 🔬 Research Publications
 
 - [ENS X CNRS: NLP for Social Sciences](https://odhn.ens.psl.eu/en/newsroom/dans-les-coulisses-des-humanites-numeriques)
+- [Text Zoning - Mylène Maignant, Gaëtan Brison and Thierry Poibeau](Text Zoning of Theater Reviews: How Different are Journalistic from Blogger Reviews?)
 
 ---
 
