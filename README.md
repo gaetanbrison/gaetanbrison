@@ -78,6 +78,7 @@ I'm a Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polyt
 
 - [ENS X CNRS: NLP for Social Sciences](https://odhn.ens.psl.eu/en/newsroom/dans-les-coulisses-des-humanites-numeriques)
 - [Text Zoning - Mylène Maignant, Gaëtan Brison and Thierry Poibeau](https://hal.archives-ouvertes.fr/hal-03498270/document)
+- [Journal of Open Humanities Data - Mylène Maignant, Damien Pellé, Gaëtan Brison and Thierry Poibeau](https://openhumanitiesdata.metajnl.com/article/10.5334/johd.81/)
 
 ---
 
