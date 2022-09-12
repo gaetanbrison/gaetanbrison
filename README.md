@@ -5,7 +5,7 @@ I'm a Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polyt
 
 
 - 🚀 Official launch of the Hi! Paris [Engineering Team][engineering-team] Feb 2022
-- 🌱 I’m alwayls looking to learn new things
+- 🌱 I’m always looking to learn new things
 - 👨🏼‍💻 👩🏼‍💻 I’m looking to collaborate with more software developpers & data scientists & researchers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love tennis 🎾, rowing 🚣‍♀️ and late Fridays cheese 🧀 and wine 🍷
