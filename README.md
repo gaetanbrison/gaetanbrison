@@ -16,19 +16,6 @@ I'm a Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polyt
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-<br />
-
-### Study Background:
-
-[<img align="left" alt="GeorgiaTech" width="80px" src="./images/georgiatech.png" />][georgiatech]
-[<img align="left" alt="EDHEC" width="80px" src="./images/edhec.png" />][edhec]
-[<img align="left" alt="MITx" width="80px" src="./images/mitx.png" />][mitx]
-[<img align="left" alt="LeWagon" width="80px" src="./images/lewagon.png"/>][lewagon]
-
-
-
-<br />
 <br />
 
 ### Languages and Tools:
