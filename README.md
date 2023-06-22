@@ -1,13 +1,13 @@
 ### Hi there, I'm Gaëtan 👋 
 
-I'm a Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
+I'm a Lead Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
    
 
 
 - 🚀 Official launch of the Hi! Paris [Engineering Team][engineering-team] Feb 2022
 - 🌱 I’m always looking to learn new things
 - 👨🏼‍💻 👩🏼‍💻 We are hiring ML Engineers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects with positive impact
 - ⚡ Fun fact: I love tennis 🎾, rowing 🚣‍♀️ and late Fridays cheese 🧀 and wine 🍷
 
 
