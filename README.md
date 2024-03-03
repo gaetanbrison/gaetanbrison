@@ -4,7 +4,7 @@ I'm a Lead Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut 
    
 
 
-- 🚀 Official launch of the Hi! Paris [Engineering Team][engineering-team] Feb 2022
+- 🚀 Official launch of the Hi! Paris AI [Engineering Team][engineering-team] Feb 2022
 - 🌱 I’m always looking to learn new things
 - 👨🏼‍💻 👩🏼‍💻 We are hiring ML Engineers
 - 🥅 2023 Goals: Contribute more to Open Source projects with positive impact
