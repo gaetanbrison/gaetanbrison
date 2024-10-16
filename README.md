@@ -8,7 +8,6 @@ https://www.hi-paris.fr/
 - 🌱 I’m always looking to learn new things
 - 👨🏼‍💻 👩🏼‍💻 We are hiring ML Engineers
 - 🥅 2024 Goals: Contribute more to Open Source projects with positive impact
-- ⚡ Fun fact: I love tennis 🎾, rowing 🚣‍♀️ and late Fridays cheese 🧀 and wine 🍷
 
 
 ### Connect with me:
