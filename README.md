@@ -13,7 +13,6 @@ I'm a Lead Machine Learning Research Engineer [@Hi! PARIS][hi-paris] - Institut 
 
 ### Connect with me:
 
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
