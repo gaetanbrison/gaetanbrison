@@ -18,10 +18,10 @@ https://www.hi-paris.fr/
 
 
 
-###  📦 Latest Package Development
+###  📦 Latest Package Development and Contributions from Team
 
 <!-- Package:START -->
-- In Progress ...
+
 
 <!-- Package:END -->
 
