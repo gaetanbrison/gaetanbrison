@@ -1,6 +1,6 @@
 ### Hi there, I'm Gaëtan 👋 
 
-I'm a AI Engineering Manager [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
+I'm an AI Engineering Manager [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
 https://www.hi-paris.fr/
 
 
