@@ -21,7 +21,7 @@ https://www.hi-paris.fr/
 ###  📦 Latest Package Development and Contributions from Team
 
 <!-- Package:START -->
-(https://github.com/soda-inria/carte)[CARTE AI]
+[CARTE AI](https://github.com/soda-inria/carte)
 
 <!-- Package:END -->
 
