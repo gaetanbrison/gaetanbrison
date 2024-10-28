@@ -21,7 +21,7 @@ https://www.hi-paris.fr/
 ###  📦 Latest Package Development and Contributions from Team
 
 <!-- Package:START -->
-[CARTE-AI 💬](https://github.com/soda-inria/carte) [![Downloads](https://img.shields.io/pypi/dm/carte-ai)](https://pypi.org/project/carte-ai/)
+CARTE-AI 💬[![Downloads](https://img.shields.io/pypi/dm/carte-ai)](https://pypi.org/project/carte-ai/)[➡️](https://github.com/soda-inria/carte) 
 
 [Deepdespeckling 🛰️](https://github.com/hi-paris/deepdespeckling)
 
