@@ -21,15 +21,15 @@ https://www.hi-paris.fr/
 ###  📦 Latest Package Development and Contributions from Team
 
 <!-- Package:START -->
-CARTE-AI 💬[![Downloads](https://img.shields.io/pypi/dm/carte-ai)](https://pypi.org/project/carte-ai/)[➡️](https://github.com/soda-inria/carte) 
+* [CARTE-AI 💬 ](https://github.com/soda-inria/carte)  [![Downloads](https://img.shields.io/pypi/dm/carte-ai)](https://pypi.org/project/carte-ai/)
 
-[Deepdespeckling 🛰️](https://github.com/hi-paris/deepdespeckling)
+* [Deepdespeckling 🛰️ ](https://github.com/hi-paris/deepdespeckling)  [![Downloads](https://img.shields.io/pypi/dm/deepdespeckling)](https://pypi.org/project/deepdespeckling/)
 
-[Scikit-network 🛜](https://github.com/sknetwork-team/scikit-network)
+* [Scikit-network 🛜 ](https://github.com/sknetwork-team/scikit-network)  [![Downloads](https://img.shields.io/pypi/dm/scikit-network)](https://pypi.org/project/scikit-network/)
 
-[POT 🏎️](https://github.com/PythonOT/POT)
+* [POT 🏎️ ](https://github.com/PythonOT/POT)  [![Downloads](https://img.shields.io/pypi/dm/POT)](https://pypi.org/project/POT/)
 
-[XPER 🔮](https://github.com/hi-paris/XPER)
+* [XPER 🔮 ](https://github.com/hi-paris/XPER)  [![Downloads](https://img.shields.io/pypi/dm/XPER)](https://pypi.org/project/XPER/)
 
 <!-- Package:END -->
 
