@@ -22,9 +22,13 @@ https://www.hi-paris.fr/
 
 <!-- Package:START -->
 [CARTE-AI 💬](https://github.com/soda-inria/carte)
+
 [Deepdespeckling 🛰️](https://github.com/hi-paris/deepdespeckling)
+
 [Scikit-network 🛜](https://github.com/sknetwork-team/scikit-network)
+
 [POT 🏎️](https://github.com/PythonOT/POT)
+
 [XPER 🔮](https://github.com/hi-paris/XPER)
 
 <!-- Package:END -->
