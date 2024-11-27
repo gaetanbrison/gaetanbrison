@@ -6,7 +6,7 @@ https://www.hi-paris.fr/
 
 - 🚀 Official launch of the Hi! PARIS AI [Engineering Team][engineering-team] Feb 2022
 - 🌱 I’m always looking to learn new things
-- 👨🏼‍💻 👩🏼‍💻 We are hiring ML Engineers
+- 💪 We are hiring ML Engineers
 - 🥅 2024 Goals: Contribute more to Open Source projects with positive impact
 
 
