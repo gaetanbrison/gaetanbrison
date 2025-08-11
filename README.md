@@ -21,15 +21,15 @@ https://www.hi-paris.fr/
 ###  📦 Latest Package Development and Contributions from Team
 
 <!-- Package:START -->
-* [CARTE-AI 💬 ](https://github.com/soda-inria/carte)  [![Downloads](https://img.shields.io/pypi/dm/carte-ai)](https://pypi.org/project/carte-ai/)
+* [CARTE-AI 💬 ](https://github.com/soda-inria/carte)  carte-ai
 
-* [Deepdespeckling 🛰️ ](https://github.com/hi-paris/deepdespeckling)  [![Downloads](https://img.shields.io/pypi/dm/deepdespeckling)](https://pypi.org/project/deepdespeckling/)
+* [Deepdespeckling 🛰️ ](https://github.com/hi-paris/deepdespeckling)  [![Downloads](https://pepy.tech/badge/carte-ai)](https://pepy.tech/project/carte-ai)
 
-* [Scikit-network 🛜 ](https://github.com/sknetwork-team/scikit-network)  [![Downloads](https://img.shields.io/pypi/dm/scikit-network)](https://pypi.org/project/scikit-network/)
+* [Scikit-network 🛜 ](https://github.com/sknetwork-team/scikit-network)  [![Downloads](https://pepy.tech/badge/scikit-network)](https://pepy.tech/project/scikit-network)
 
-* [POT 🏎️ ](https://github.com/PythonOT/POT)  [![Downloads](https://img.shields.io/pypi/dm/POT)](https://pypi.org/project/POT/)
+* [POT 🏎️ ](https://github.com/PythonOT/POT)  [![Downloads](https://pepy.tech/badge/POT)](https://pepy.tech/project/POT)
 
-* [XPER 🔮 ](https://github.com/hi-paris/XPER)  [![Downloads](https://img.shields.io/pypi/dm/XPER)](https://pypi.org/project/XPER/)
+* [XPER 🔮 ](https://github.com/hi-paris/XPER)  [![Downloads](https://pepy.tech/badge/XPER)](https://pepy.tech/project/XPER)
 
 <!-- Package:END -->
 
