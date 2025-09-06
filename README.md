@@ -1,8 +1,6 @@
 ### Hi there, I'm Gaëtan 👋 
 
 I'm an AI Engineering Manager [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
-https://www.hi-paris.fr/
-
 
 - 🚀 Official launch of the Hi! PARIS AI [Engineering Team][engineering-team] Feb 2022
 - 🌱 I’m always looking to learn new things
@@ -11,13 +9,11 @@ https://www.hi-paris.fr/
 
 ###  🔬 Recent Papers - Summer 2025
 
--  **FakeParts: a New Family of AI-Generated DeepFakes**  
-   _Introducing partial manipulations within otherwise authentic videos—FakeParts degrades detection by both humans and models._  
-   [Paper](https://arxiv.org/pdf/2508.21052) • [Code](https://github.com/hi-paris/FakeParts)
+| Title                                                                        | Paper                                           | Code                                                                 |
+|------------------------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------|
+| FakeParts: a New Family of AI-Generated DeepFakes                            | [arXiv:2508.21052](https://arxiv.org/pdf/2508.21052) | [GitHub](https://github.com/hi-paris/FakeParts)                      |
+| Table foundation models: on knowledge pre-training for tabular learning      | [arXiv:2505.14415](https://arxiv.org/pdf/2505.14415) | [GitHub](https://github.com/soda-inria/tarte-ai)                     |
 
--  **Table foundation models: on knowledge pre-training for tabular learning**  
-   _Presenting TARTE, a table foundation model that captures semantics via knowledge pre-training for better tabular data representations._  
-   [Paper](https://arxiv.org/pdf/2505.14415) • [Code](https://github.com/soda-inria/tarte-ai)
 
 
 ###  📦 Latest Package Development and Contributions from Team
