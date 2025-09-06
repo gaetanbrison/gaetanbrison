@@ -9,13 +9,15 @@ https://www.hi-paris.fr/
 - 💪 We are hiring ML Engineers
 - 🥅 2024 Goals: Contribute more to Open Source projects with positive impact
 
+###  🔬 Recent Papers - Summer 2025
 
-### Connect with me:
+-  **FakeParts: a New Family of AI-Generated DeepFakes**  
+   _Introducing partial manipulations within otherwise authentic videos—FakeParts degrades detection by both humans and models._  
+   [Paper](https://arxiv.org/pdf/2508.21052) • [Code](https://github.com/hi-paris/FakeParts)
 
-[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
+-  **Table foundation models: on knowledge pre-training for tabular learning**  
+   _Presenting TARTE, a table foundation model that captures semantics via knowledge pre-training for better tabular data representations._  
+   [Paper](https://arxiv.org/pdf/2505.14415) • [Code](https://github.com/soda-inria/tarte-ai)
 
 
 ###  📦 Latest Package Development and Contributions from Team
@@ -35,6 +37,13 @@ https://www.hi-paris.fr/
 
 
 ---
+
+### Connect with me:
+
+[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
 
 
 [engineering-team]: https://engineeringteam.hi-paris.fr/
