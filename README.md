@@ -9,11 +9,10 @@ I'm an AI Engineering Manager [@Hi! PARIS][hi-paris] - Institut Polytechnique Pa
 
 ###  🔬 Recent Papers - Summer 2025
 
-| Title                                                                        | Paper                                           | Code                                                                 |
-|------------------------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------|
-| FakeParts: a New Family of AI-Generated DeepFakes                            | [arXiv:2508.21052](https://arxiv.org/pdf/2508.21052) | [GitHub](https://github.com/hi-paris/FakeParts)                      |
-| Table foundation models: on knowledge pre-training for tabular learning      | [arXiv:2505.14415](https://arxiv.org/pdf/2505.14415) | [GitHub](https://github.com/soda-inria/tarte-ai)                     |
-
+| Title | Paper | Code |
+|-------|-------|------|
+| FakeParts: a New Family of AI-Generated DeepFakes | [![arXiv](https://img.shields.io/badge/arXiv-2508.21052-b31b1b.svg)](https://arxiv.org/pdf/2508.21052) | [![GitHub](https://img.shields.io/badge/code-GitHub-black?logo=github)](https://github.com/hi-paris/FakeParts) |
+| Table foundation models: on knowledge pre-training for tabular learning | [![arXiv](https://img.shields.io/badge/arXiv-2505.14415-b31b1b.svg)](https://arxiv.org/pdf/2505.14415) | [![GitHub](https://img.shields.io/badge/code-GitHub-black?logo=github)](https://github.com/soda-inria/tarte-ai) |
 
 
 ###  📦 Latest Package Development and Contributions from Team
