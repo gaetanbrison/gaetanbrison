@@ -41,7 +41,7 @@ I'm an AI Engineering Manager [@Hi! PARIS][hi-paris] - Institut Polytechnique Pa
 
 
 
-[engineering-team]: https://engineeringteam.hi-paris.fr/
+[engineering-team]: https://www.hi-paris.fr/
 [hi-paris]: https://www.hi-paris.fr/
 [medium]: https://gaetan-brison.medium.com/
 [linkedin]: https://www.linkedin.com/in/gaetan-brison/
