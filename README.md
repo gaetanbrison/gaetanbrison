@@ -1,11 +1,10 @@
 ### Hi there, I'm Gaëtan 👋 
 
-I'm an AI Engineering Manager [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
+I'm an AI Engineering Manager [@Doctolib][Doctolib] 
 
-- 🚀 Official launch of the Hi! PARIS AI [Engineering Team][engineering-team] Feb 2022
 - 🌱 I’m always looking to learn new things
-- 💪 We are hiring ML Engineers
-- 🥅 2024 Goals: Contribute more to Open Source projects with positive impact
+- 💪 We are hiring Senior ML Engineers
+- 🥅 2026 Goals: Contribute more to Open Source projects with positive impact
 
 ###  🔬 Recent Papers - Summer 2025
 
@@ -41,8 +40,7 @@ I'm an AI Engineering Manager [@Hi! PARIS][hi-paris] - Institut Polytechnique Pa
 
 
 
-[engineering-team]: https://www.hi-paris.fr/
-[hi-paris]: https://www.hi-paris.fr/
+[Doctolib]: https://www.doctolib.fr/
 [medium]: https://gaetan-brison.medium.com/
 [linkedin]: https://www.linkedin.com/in/gaetan-brison/
 [georgiatech]: https://www.gatech.edu/
